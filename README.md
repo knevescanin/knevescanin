@@ -65,8 +65,8 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knevescanin&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevescanin&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=knevescanin&show_icons=true&theme=radical" alt="GitHub Stats" width="370"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevescanin&layout=compact&theme=radical" alt="Top Languages" width="370"/>
 </div>
 
 &nbsp;
