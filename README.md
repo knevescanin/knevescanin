@@ -65,8 +65,8 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knevescanin&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats"  height=250 align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevescanin&langs_count=5&theme=tokyonight&hide=HTML&hide_border=true" alt="Top Languages"  height=250 align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knevescanin&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats"  height=230 align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knevescanin&langs_count=5&theme=tokyonight&hide=HTML&hide_border=true" alt="Top Languages"  height=230 align="center" />
 </div>
 
 &nbsp;
