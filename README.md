@@ -8,7 +8,6 @@
 <h2 align="center">🚀 About Me </h2>
 
 * 🇭🇷 Split, Croatia
-* **Full-stack** developer
 
 * 🎓 **Education**:  
   - B.Sc. in **Computing** (2024.) - University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
