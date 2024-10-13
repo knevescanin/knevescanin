@@ -12,7 +12,6 @@
 * 🎓 **Education**:  
   - B.Sc. in **Computing** (2024.) - University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
 
-
 * 🌱 **Learning**:  
   - I'm currently diving into 📱 **iOS** and 🌐 **Web** development
 
