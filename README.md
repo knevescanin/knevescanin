@@ -34,7 +34,7 @@
 
   &nbsp;
 
-<h2 align="center">🛠️ Worked with</h2> 
+<h2 align="center">🛠️ Worked With</h2> 
 
 **Front-End:**
 > ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
